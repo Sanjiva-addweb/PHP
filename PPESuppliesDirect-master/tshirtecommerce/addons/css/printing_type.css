@@ -1,0 +1,56 @@
+/**
+ * @author tshirtecommerce - www.tshirtecommerce.com
+ * @date: 2015-11-01
+ *
+ * API
+ *
+ * @copyright  Copyright (C) 2015 tshirtecommerce.com. All rights reserved.
+ * @license    GNU General Public License version 2 or later; see LICENSE
+ *
+ */
+ @media (max-width:450px){
+	 .col-zs-12{
+		width:100% !important;		 
+	 }
+ }
+#printing-type{
+	border-top: 1px dotted #f1f1f1;
+	padding-top: 10px;
+}
+#printing-type a{
+	color:blue !important;
+	padding: 5px 10px;
+}
+.printing-type-modal .modal-body a > div{
+	padding: 10px;
+	/*margin: 10px;*/
+}
+.printing-type-modal .modal-body a,.printing-type-modal .modal-body a:hover,.printing-type-modal .modal-body a.active{
+	border-radius: 5px; 		/* Opera 10.5, IE 9, Safari 5, Chrome, Firefox 4, iOS 4, Android 2.1+ */
+	-moz-border-radius: 5px; 	/* Firefox 1-3.6 */
+	-webkit-border-radius:5px; 	/* Safari 3-4, iOS 1-3.2, Android 1.6- */
+	border-style: solid;
+	border-width: 1px;
+	text-align: center;
+	text-decoration: none;
+}
+.modal-body a{
+	border-color: #fff;
+}
+.printing-type-modal .modal-body a:hover,.printing-type-modal .modal-body a.active{
+	border-color: #7BCD40;
+}
+.printing-type-modal h3{
+	border: none !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+.printing-type-modal img{
+	max-width: 70px;
+	max-height: 60px;
+}
+#printTypeModal .modal-body{
+	display: inline-block;
+    /*max-height: 350px;*/
+    overflow: auto; 
+}

@@ -1,0 +1,52 @@
+/*  For sidebar filter Start */
+dl {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+.block-layered-nav dl.sln-nav dt {
+    overflow: hidden;
+    cursor: pointer;
+}
+.block-layered-nav dl.sln-nav dt span {
+    float: left;
+}
+#narrow-by-list dd {
+    background-color: #f1f2f2;
+    border: 1px solid #e6e7e8;
+    padding: 12px 15px;
+    font-family: Droid Sans;
+    font-size: 12px;
+    color: #231f20;
+	margin-left:0px;
+}
+#narrow-by-list dd > ol >li {
+    background: none !important;
+}
+.sidebar #narrow-by-list ol > li a {
+    font-family: 'DroidSans';
+    font-weight: normal;
+    font-size: 8.52pt;
+}
+label {
+    font-family: DroidSans;
+    font-weight: normal;
+    font-size: 10pt;
+    color: #231f20;
+    margin-top: 8px;
+    cursor: pointer;
+}
+#narrow-by-list dt {
+    font-family: 'Interstate-Bold';
+    font-weight: normal;
+    font-size: 10pt;
+    background-color: #f1f2f2;
+    margin-top: 10px;
+    border: 1px solid #e6e7e8;
+    padding: 10px 15px;
+    color: #231f20;
+    text-transform: uppercase;
+}
+/*  For sidebar filter End */

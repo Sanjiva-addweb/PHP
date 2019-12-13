@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+a {font-family:'Lato', sans-serif;}
+/*  For sidebar filter Start */
+dl {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+dl.sln-nav dt {
+    overflow: hidden;
+    cursor: pointer;
+}
+dl.sln-nav dt span {
+    float: left;
+}
+.circ {
+    border-radius: 50%;
+    height: 20px;
+    overflow: hidden;
+    position: relative;
+    width: 20px;
+    right: 0px;
+    float: right;
+    border: 1px solid #ccc;
+    top: 3px;
+}
+#narrow-by-list dd {
+    background-color: #f1f2f2;
+    border: 1px solid #e6e7e8;
+    padding: 12px 15px;
+    font-family: Droid Sans;
+    font-size: 12px;
+    color: transparent;
+	margin-left:0px;
+}
+#narrow-by-list dd > ol >li {
+    background: none !important;
+}
+
+.sidebar #narrow-by-list ol > li a {
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+    font-size: 8.52pt;
+	padding: 0 0px 0 6px;
+}
+label {
+    font-family: DroidSans;
+    font-weight: normal;
+    font-size: 11pt;
+    color: #231f20;
+    margin-top: 8px;
+    cursor: pointer;
+}
+dl#narrow-by-list {margin-bottom:0px;}
+aside.widget.widget_text {
+    margin-bottom: 0px;
+}
+#narrow-by-list dt span {font-family:'Lato', sans-serif;}
+.count-item {font-family: 'Lato', sans-serif;}
+#narrow-by-list dt {
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+    font-size: 10pt;
+    background-color: #f1f2f2;
+    margin-top: 10px;
+    border: 1px solid #e6e7e8;
+    padding: 10px 15px;
+    color: #231f20;
+    text-transform: uppercase;
+}
+ol.sln-type-checkbox {
+    padding-left: 0px;
+	display: inline-grid;
+    width: 100% !important;
+}
+.tpgHorizontalSlider {
+    background: #fff;
+    padding: 1px 0 1px 1px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+.tpgHasXLabel:before{display: table; content: " ";}
+#doubleSlider_price .clearfix {
+    display: inline-block;
+}
+.tpgSliderRail {position: relative;}
+.tpgSliderThumb {
+    font-size: inherit;
+    position: absolute;
+    z-index: 5;
+}
+.tpgSliderInnerRail {
+    background-color: #DDDDDD;
+    border: 1px solid #BBBBBB;
+}
+.tpgSliderInnerRail {
+    position: absolute;
+    z-index: 2;
+    overflow: hidden;
+}
+.tpgDynLabel
+    position: absolute;
+}
+.tpgHorizontalSlider .tpgDynLabel {
+    top: -24px;
+}
+.tpgDynLabel {
+    color: #1F5070;
+    white-space: nowrap;
+    border: 1px solid #ccc;
+    background: #eee;
+    padding: 0 2px;
+    border-radius: 3px;
+}
+.ui-slider-range.ui-corner-all.ui-widget-header {
+    background: #77aac3 !important;
+}
+#slider-range span:nth-child(2) {
+    content: url(https://ppesuppliesdirect.co.uk/wp-content/uploads/2018/07/thumb_right.png) !important;
+}
+#slider-range span:nth-child(3) {
+    content: url(https://ppesuppliesdirect.co.uk/wp-content/uploads/2018/07/thumb_left.png) !important;
+}
+.ui-slider-range .ui-widget-header {border: 2px solid #ffffff !important;}
+
+.widget_wcapf-attribute-filter
+{
+	display:none!important;
+}
+dd.filter-items-brand.odd {
+    height: 300px !important;
+    overflow: scroll;
+}
+dd.filter-items-color.last.odd {
+    height: 300px;
+    overflow: scroll;
+}
+ul.sln-type-checkbox {
+    padding: 1px;
+}
+/*  For sidebar filter End */
+.circle.active {
+     box-shadow: 0px 0px 20px #000;
+}

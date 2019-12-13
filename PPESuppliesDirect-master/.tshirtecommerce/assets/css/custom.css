@@ -1,0 +1,23 @@
+.modal-header{
+		border-bottom: none;		
+	}
+
+.modal-title{
+	font-size:20px;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+.modal-dialog{
+	width:800px;
+}
+
+.modal-bottom-text{
+	padding:15px;
+	display: block;
+}
+
+.amodal{
+	color:#333
+	text-decoration: none;;
+}

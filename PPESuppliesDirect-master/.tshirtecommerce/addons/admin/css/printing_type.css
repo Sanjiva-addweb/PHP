@@ -1,0 +1,27 @@
+/**
+ * @author tshirtecommerce - www.tshirtecommerce.com
+ * @date: 2015-06-11
+ *
+ * API
+ *
+ * @copyright  Copyright (C) 2015 tshirtecommerce.com. All rights reserved.
+ * @license    GNU General Public License version 2 or later; see LICENSE
+ *
+ */
+ 
+.printing-types a:hover{
+    text-decoration: none;
+    color: #7BCD40;
+}
+.printing-types p{
+    padding-left: 10px;
+    /*margin-left: 10px;*/
+    border-bottom: 1px dotted #f1f1f1;
+}
+.panel{
+    border: :none !important;
+    box-shadow:none !important;
+}
+.help-block{
+    font-size: small;
+}

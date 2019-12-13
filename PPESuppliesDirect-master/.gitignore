@@ -1,0 +1,26 @@
+wp-content/uploads
+wp-content/cache
+wp-content/updraft
+wp-content/upgrade
+wp-content/plugins/really-simple-ssl
+wp-content/plugins/wp-force-https
+wp-content/plugins/login-recaptcha
+wp-content/wflogs
+wp-content/wp-rocket-config
+test.txt
+.bashrc
+.htaccess
+.profile
+wp-config.php
+# ignore everything in the root except the "wp-content" directory.
+
+# ignore everything in the "wp-content" directory, except:
+# "mu-plugins", "plugins", "themes" directory
+
+# ignore node dependency directories
+node_modules/
+
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite

@@ -1,0 +1,17 @@
+[
+"addons/admin/config/printing_type.php",
+"addons/admin/css/printing_type.css",
+"addons/admin/js/printing_type.js",
+"addons/admin/language/printing_type.ini",
+"addons/admin/product-fields/printing_type.php",
+"addons/css/printing_type.css",
+"addons/hooks/cart/printing_type.php",
+"addons/hooks/product/printing_type.php",
+"addons/install/printing_type.json",
+"addons/js/printing_type.js",
+"addons/lang-js/printing_type.php",
+"addons/language/printing_type.ini",
+"addons/modal/printing_type.json",
+"addons/product/printing_type.php",
+"addons/remove/printing_type.json"
+]
